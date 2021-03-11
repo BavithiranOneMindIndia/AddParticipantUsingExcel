@@ -264,7 +264,7 @@
                               </ui:CursorPosition>
                             </ui:Click.CursorPosition>
                             <ui:Click.Target>
-                              <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" Id="7f3cea71-4d0c-43e1-a714-1f6536641acb" InformativeScreenshot="853cfa28eec842bb5a705b5bbaca66d5" Selector="&lt;html app='chrome.exe' title='* WhatsApp*' /&gt;&lt;webctrl parentid='pane-side' tag='SPAN' innertext='{{Groupname}}' idx='3' /&gt;">
+                              <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" Id="7f3cea71-4d0c-43e1-a714-1f6536641acb" InformativeScreenshot="853cfa28eec842bb5a705b5bbaca66d5" Selector="&lt;webctrl parentid='pane-side' innertext='{{Groupname}}' tag='DIV' /&gt;">
                                 <ui:Target.TimeoutMS>
                                   <InArgument x:TypeArguments="x:Int32" />
                                 </ui:Target.TimeoutMS>
